@@ -3,7 +3,7 @@ Last Updated:
 
 26-11-2025
 
-My Personal Website
+My Personal Website by Umbraco 13 CMS and a MSSQL Database
 
 # Create a global json
 
