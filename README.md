@@ -1,5 +1,5 @@
 # pso-umbraco
-Last Updated:
+Last Updated
 
 27-11-2025
 
@@ -16,7 +16,7 @@ dotnet new globaljson --sdk-version 8.0.203 --force
 # Tech used for creating the Website
 
 - .NET 8
-- Umbraco CMS 13
+- Umbraco 13 CMS
 - MSSQL Database for both Development and Production
 - A traditional Webhotel for hosting
 - VS Code
@@ -99,7 +99,7 @@ Be sure that the Models for the Document Types are available and Recognized in V
 
 - Stop your site and make a dotnet run to see your site is running
 
-- Note: The cs files / models must be ignored before Release Build / Production. This must be doing manually in the ItemGroup / compile in the MyProject . csproj !!!
+- Note: The cs files / models must be ignored before Release Build / Production. This must be doing manually in the ItemGroup / compile in the PsoUmbraco . csproj !!!
 
 Happy use Umbraco :-)
 

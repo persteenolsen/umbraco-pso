@@ -22,10 +22,10 @@
 
   <!--23-11-2025 - Enable for Development / Disable for Production -->
   <!-- Remove RazorCompileOnBuild and RazorCompileOnPublish when not using ModelsMode InMemoryAuto -->
-  <!--<PropertyGroup>
+  <PropertyGroup>
     <RazorCompileOnBuild>false</RazorCompileOnBuild>
     <RazorCompileOnPublish>false</RazorCompileOnPublish>
-  </PropertyGroup>-->
+  </PropertyGroup>
 
   <!--Release Build / Production -->
   <!--23-11-2025 - Not needed because of the above -->
