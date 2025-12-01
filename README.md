@@ -1,7 +1,7 @@
 # pso-umbraco
 Last Updated
 
-30-11-2025
+01-12-2025
 
 My Personal Website by Umbraco 13 CMS and a MSSQL Database
 
